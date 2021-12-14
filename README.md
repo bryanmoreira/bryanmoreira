@@ -1,4 +1,4 @@
-## Olá, eu sou o Bryan! 🚀
+## Oi, eu sou o Bryan! 🚀
 
 <div align="center">
   <a href="https://github.com/bryanmoreira">
