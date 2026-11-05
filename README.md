@@ -32,7 +32,7 @@ Construo sistemas web de ponta a ponta: da interface ao banco de dados, passando
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| [mesadejogos.com](https://github.com/bryanmoreira/mesadejogos.com) | Site de jogos de mesa | TypeScript, HTML, Docker |
+| [mesadejogos.com](https://mesadejogos.com) | Site de jogos de mesa | TypeScript, HTML, Docker |
 | [subtitle-styler](https://github.com/bryanmoreira/subtitle-styler) | Extensão do Chrome para personalizar legendas (tamanho, cor e borda) na Netflix e outros streamings | JavaScript, HTML, CSS |
 | **orioncrm** (privado) | CRM full stack em monorepo, com Docker e Biome | TypeScript, React, Docker |
 
